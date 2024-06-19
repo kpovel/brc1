@@ -1,4 +1,4 @@
 (executable
  (public_name brc1)
  (name main)
- (libraries brc1))
+ (libraries brc1 core))
